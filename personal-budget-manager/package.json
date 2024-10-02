@@ -2,7 +2,7 @@
   "name": "personal-budget-manager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Essie-wanjiru001.github.io/Personal-budget-manager",
+  "homepage": "https://Essie-wanjiru001.github.io/Personal-budget-manager/#",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
