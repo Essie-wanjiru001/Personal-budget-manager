@@ -34,12 +34,15 @@ Ensure you have the following installed on your machine:
    git clone https://github.com/Essie-wanjiru001/Personal-budget-manager.git
 
 2. **Navigate to the project directory:**
+   ```bash
    cd personal-budget-manager
 
 3. **Install the required dependencies**
+   ```bash
    npm install
 
 4. **Start the development server**
+  ```bash
   npm start
 
 5. **Open your browser and go to http://localhost:3000 to access the app.**
