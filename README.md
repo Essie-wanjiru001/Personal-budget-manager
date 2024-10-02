@@ -46,32 +46,5 @@ Ensure you have the following installed on your machine:
   npm start
 
 ---
+
 5. **Open your browser and go to http://localhost:3000 to access the app.**
-
----
-
-## Project Structure
-**Here's an overview of the project structure:**
-/src
-  /components      # Reusable components like Navbar, ExpenseSummary
-  /assets          # Static assets (e.g., images, CSS)
-  App.js           # Main app component
-  index.js         # Entry point for React
-
-
-### Key Files
-- **LandingPage.js:** Landing page component for the ExpenseFlow app. It contains a welcoming interface with an introduction to the app’s functionality.
-
-- **Navbar.js:** Navigation bar component, which helps users to navigate between different pages of the application.
-
-- **ExpenseSummary.js:** Component that shows the user's total income, expenses, savings, and budget limits using a summary and charts.
-
-- **package.json:** Project configuration file that contains the list of dependencies and scripts to run and build the app.
-
----
-
-## Technologies Used
-- **React:** For building the user interface.
-- **Chart.js:** For visualizing data with charts.
-- **React Router:** For handling page routing.
-- **CSS:** For styling the application.
