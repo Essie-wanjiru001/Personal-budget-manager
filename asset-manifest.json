@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Personal_Budget_Manager/static/css/main.6e9d2543.css",
-    "main.js": "/Personal_Budget_Manager/static/js/main.7073fab1.js",
-    "static/js/453.e4f83acf.chunk.js": "/Personal_Budget_Manager/static/js/453.e4f83acf.chunk.js",
-    "static/media/image-1.jpg": "/Personal_Budget_Manager/static/media/image-1.13cbd678a71db2aecd0f.jpg",
-    "static/media/logo.png": "/Personal_Budget_Manager/static/media/logo.5b425d7a9683173f76cf.png",
-    "index.html": "/Personal_Budget_Manager/index.html",
-    "main.6e9d2543.css.map": "/Personal_Budget_Manager/static/css/main.6e9d2543.css.map",
-    "main.7073fab1.js.map": "/Personal_Budget_Manager/static/js/main.7073fab1.js.map",
-    "453.e4f83acf.chunk.js.map": "/Personal_Budget_Manager/static/js/453.e4f83acf.chunk.js.map"
+    "main.css": "/Personal-budget-manager/static/css/main.6e9d2543.css",
+    "main.js": "/Personal-budget-manager/static/js/main.b7122fb5.js",
+    "static/js/453.e4f83acf.chunk.js": "/Personal-budget-manager/static/js/453.e4f83acf.chunk.js",
+    "static/media/image-1.jpg": "/Personal-budget-manager/static/media/image-1.13cbd678a71db2aecd0f.jpg",
+    "static/media/logo.png": "/Personal-budget-manager/static/media/logo.5b425d7a9683173f76cf.png",
+    "index.html": "/Personal-budget-manager/index.html",
+    "main.6e9d2543.css.map": "/Personal-budget-manager/static/css/main.6e9d2543.css.map",
+    "main.b7122fb5.js.map": "/Personal-budget-manager/static/js/main.b7122fb5.js.map",
+    "453.e4f83acf.chunk.js.map": "/Personal-budget-manager/static/js/453.e4f83acf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e9d2543.css",
-    "static/js/main.7073fab1.js"
+    "static/js/main.b7122fb5.js"
   ]
 }
